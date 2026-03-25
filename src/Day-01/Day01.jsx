@@ -13,6 +13,7 @@ export default function Day01() {
             <Link to="Task-02"><button style={{cursor:'pointer', borderRadius: "20px", padding:"10px 20px", outline: "none", border: "none",boxShadow: "0px 10px 10px rgba(0,0,0,0.3)"}}>Task 02</button></Link>
         </div>
       </div>
+      {}
 
       <div style={{width:"800px"}}>
         <Outlet/>
