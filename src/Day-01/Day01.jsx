@@ -15,7 +15,7 @@ export default function Day01() {
       </div>
       {}
 
-      <div style={{width:"800px"}}>
+      <div style={{width:"800px", height: "inherit"}}>
         <Outlet/>
       </div>  
         
