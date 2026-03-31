@@ -8,7 +8,7 @@ export default function Day03() {
         <p style={{fontSize:"20px"}}>Welcome to Day 2 of React Challenge Series !!!</p>  
         <div style={{display: 'flex', gap: "20px", justifyContent:"space-between"}}>
             <Link to="Task-05"><button style={{cursor:'pointer', borderRadius: "20px", padding:"10px 20px", outline: "none", border: "none", boxShadow: "0px 10px 10px rgba(0,0,0,0.3)"}}>Task 05</button></Link>
-            {/* <Link to="Task-04"><button style={{cursor:'pointer', borderRadius: "20px", padding:"10px 20px", outline: "none", border: "none",boxShadow: "0px 10px 10px rgba(0,0,0,0.3)"}}>Task 04</button></Link> */}
+            <Link to="Task-06"><button style={{cursor:'pointer', borderRadius: "20px", padding:"10px 20px", outline: "none", border: "none",boxShadow: "0px 10px 10px rgba(0,0,0,0.3)"}}>Task 06</button></Link>
         </div>
       </div>
       {}

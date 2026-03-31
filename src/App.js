@@ -10,6 +10,7 @@ import Task03 from './Day-02/Task03';
 import Task04 from './Day-02/Task04';
 import Task05 from './Day-03/Task05';
 import Day03 from './Day-03/Day03';
+import Task06 from './Day-03/Task06';
 
 function App() {
   return (
@@ -25,6 +26,7 @@ function App() {
       </Route>
       <Route path='Day-03' element={<Day03/>}>
         <Route path='Task-05' element={<Task05 />}/>
+        <Route path='Task-06' element={<Task06/>}/>
       </Route>
       
    </Routes>
